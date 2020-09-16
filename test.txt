@@ -1,3 +1,5 @@
 This is test
 mic test 1 2 3 
 adding branch
+
+using git cmd command
